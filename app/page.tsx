@@ -126,11 +126,17 @@ const research = [
 ];
 
 const certifications = [
-  { name: "Certified Red Team Operations Management", short: "CRTOM" },
-  { name: "Certified LLM Security Expert", short: "CLLMSE" },
-  { name: "Ethical Hacking Essentials", short: "EC-Council" },
-  { name: "Digital Forensics Essentials", short: "DFE" },
-  { name: "Zero Trust Architecture", short: "Cybrary" }
+  { name: "Certified Red Team Operations Management", short: "CRTOM · Red Team Leaders" },
+  { name: "Ethical Hacking Essentials", short: "EHE · EC-Council" },
+  { name: "CORE Cybersecurity Training", short: "Hackviser" },
+  { name: "Certified Phishing Prevention Specialist", short: "CCPS · Hack & Fix" },
+  { name: "Advent of Cyber 2025", short: "TryHackMe" },
+  { name: "Introduction to Dark Web, Anonymity, and Cryptocurrency", short: "EC-Council" },
+  { name: "Zero Trust Architecture", short: "Cybrary" },
+  { name: "Digital Forensics Essentials", short: "DFE · EC-Council" },
+  { name: "Cyber Forensics", short: "EC-Council" },
+  { name: "Certified LLM Security Expert", short: "CLLMSE · Red Team Leaders" },
+  { name: "Certified Cybersecurity Educator Professional", short: "CCEP · Red Team Leaders" }
 ];
 
 function MatrixBackground() {
